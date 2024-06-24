@@ -11,3 +11,4 @@ openai==0.28.0
 black
 isort
 python-dotenv
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
